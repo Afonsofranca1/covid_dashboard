@@ -24,19 +24,19 @@ An interactive dashboard built with Dash, Plotly, and Pandas to visualize COVID-
 
 ## How to Run
 
-### 1. Clone the repo:
+#### 1. Clone the repo:
 
 git clone https://github.com/YOUR_USERNAME/covid_dashboard.git, cd covid_dashboard
 
-### 2. Install dependencies:
+#### 2. Install dependencies:
 
 pip install -r requirements.txt
 
-### 3. Run the app:
+#### 3. Run the app:
 
 python app.py
 
-### 4. Then visit: http://127.0.0.1:8050
+#### 4. Then visit: http://127.0.0.1:8050
 
 ---
 
