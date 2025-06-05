@@ -26,8 +26,7 @@ An interactive dashboard built with Dash, Plotly, and Pandas to visualize COVID-
 
 ### 1. Clone the repo:
 
-git clone https://github.com/YOUR_USERNAME/covid_dashboard.git
-cd covid_dashboard
+git clone https://github.com/YOUR_USERNAME/covid_dashboard.git, cd covid_dashboard
 
 ### 2. Install dependencies:
 
