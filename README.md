@@ -13,12 +13,6 @@ An interactive dashboard built with Dash, Plotly, and Pandas to visualize COVID-
 
 ---
 
-## 🚀 Live Demo
-
-> You can deploy this to [Render](https://render.com), [Streamlit Cloud](https://streamlit.io/), or [Heroku].
-
----
-
 ## Project Structure
 
 - app.py (Main Dash application)
@@ -56,8 +50,9 @@ python app.py
   
 ---
 
-## Screenshots
+## Screenshot
 
+![covid_app](covid.png)
 
 ---
 
